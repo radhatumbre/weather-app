@@ -3,23 +3,23 @@ import React from 'react'
 const cities = [
     {
         id:1, 
-        title:'Tokyo'
+        title:'Mumbai'
     },
     {
         id:2, 
-        title:'Sydney'
-    },
-    {
-        id:3, 
         title:'Delhi'
     },
     {
-        id:4, 
+        id:3, 
         title:'Kolkata'
     },
     {
+        id:4, 
+        title:'Manipur'
+    },
+    {
         id:5, 
-        title:'Ohio'
+        title:'London'
     }
 ]
 const TopButton = ({setQuery}) => {
